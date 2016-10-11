@@ -60,4 +60,4 @@ function timer_start()
   end
 end
 
-mp.add_key_binding("t", "watchtimer_start", timer_start)
+mp.add_key_binding("t", "watchtimer", timer_start)
