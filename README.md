@@ -13,3 +13,4 @@ CTRL+t watchtimer
 
 ## Screenshot
 
+![watchtimer Screenshot](img/watchtimer_screenshot.png)
